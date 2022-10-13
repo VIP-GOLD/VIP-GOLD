@@ -1,0 +1,9 @@
+- 👋 Hi, I’m AHMEED SALAM - @VIP-GOLD
+- 👀 I’m stying in salah addin aldhylouia...
+- 🌱 I’m study computer science ...
+- 📫 How to reach me ...
+
+<!---
+VIP-GOLD/VIP-GOLD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
